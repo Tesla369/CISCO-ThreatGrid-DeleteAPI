@@ -25,9 +25,9 @@ Finally restart your server using,
 
 ## Access
 You can Access the site in any of the following method via your browser
-```http://0.0.0.0/threatgrid/
-http://127.0.0.1/threatgrid/
-http://localhost/threatgrid/
-http://[private_ip]/threatgrid/
-http://[port_mapped_public_ip]/threatgrid/
-http(s)://[host]/threatgrid/```
+```http://0.0.0.0/threatgrid/```
+```http://127.0.0.1/threatgrid/```
+```http://localhost/threatgrid/```
+```http://[private_ip]/threatgrid/```
+```http://[port_mapped_public_ip]/threatgrid/```
+```http(s)://[host]/threatgrid/```
