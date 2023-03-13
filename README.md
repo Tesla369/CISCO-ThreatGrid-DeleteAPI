@@ -6,8 +6,8 @@ CISCO ThreatGrid API call to DELETE user and organization.<br /> CISCO ThreatGri
 2. Apache2 Web Server
 
 ## Usage
-```git clone https://github.com/Tesla369/CISCO-ThreatGrid-DeleteAPI``` <br />
-```cd CISCO-ThreatGrid-DeleteAPI```<br />
+```git clone https://github.com/Tesla369/ciscotgdelapi.github.io``` <br />
+```cd ciscotgdelapi.github.io```<br />
 ```mv threatgrid /var/www/html/``` <br />
 ```sudo service apache2 start```
 
