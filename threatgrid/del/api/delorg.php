@@ -33,7 +33,7 @@ if ($response === false) {
 $responseData = json_decode($response, true);
 
 switch ($http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE)) {
-  case 200:  # OK
+  case 200:
   case 201:
   case 202:
   case 203:
