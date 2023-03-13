@@ -3,9 +3,10 @@ CISCO ThreatGrid API call to DELETE user and organization.<br /> CISCO ThreatGri
 
 ## Pre-Requisite
 1. PHP
-2. Apache2 Web Server
+2. php-curl
+3. Apache2 Web Server
 
-## Usage
+## Installation & Usage
 ```git clone https://github.com/Tesla369/CISCO-ThreatGrid-DeleteAPI``` <br />
 ```cd CISCO-ThreatGrid-DeleteAPI```<br />
 ```mv threatgrid /var/www/html/``` <br />
