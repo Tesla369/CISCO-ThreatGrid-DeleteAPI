@@ -6,22 +6,22 @@ CISCO ThreatGrid API call to DELETE user and organization. CISCO ThreatGrid does
 2. Apache2 Web Server
 
 ## Usage
-```git clone https://github.com/Tesla369/CISCO-ThreatGrid-DeleteAPI
-cd CISCO-ThreatGrid-DeleteAPI
-mv threatgrid /var/www/html/
-sudo service apache2 start```
+```git clone https://github.com/Tesla369/CISCO-ThreatGrid-DeleteAPI```
+```cd CISCO-ThreatGrid-DeleteAPI```
+```mv threatgrid /var/www/html/```
+```sudo service apache2 start```
 
 ## Edit
-```cd /var/www/html/threatgrid/
-sudo nano del/api/delusr.php```
+```cd /var/www/html/threatgrid/```
+```sudo nano del/api/delusr.php```
 Update Host and your ThreatGrid Admin TUI CLEAN Interface API-KEY (Administrator)
 Save the file (Ctrl + S) and exit (Ctrl + X)
 Similarly for the delorg.php as well, 
 ```sudo nano del/api/delorg.php```
 Update Host and your ThreatGrid Admin TUI CLEAN Interface API-KEY (Administrator)
 Finally restart your server using,
-```sudo service apache2 restart
-sudo systemctl restart apache2```
+```sudo service apache2 restart```
+```sudo systemctl restart apache2```
 
 ## Access
 You can Access the site in any of the following method via your browser
