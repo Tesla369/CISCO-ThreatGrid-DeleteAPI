@@ -24,7 +24,7 @@ Similarly for the delorg.php as well,  <br />
 Update Host and your ThreatGrid Admin TUI CLEAN Interface API-KEY (Administrator) <br />
 <br />
 Finally restart your server using, <br />
-```sudo service apache2 restart```
+```sudo service apache2 restart``` <br />
 ```sudo systemctl restart apache2```
 
 ## Access
