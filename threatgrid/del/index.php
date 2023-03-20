@@ -480,17 +480,7 @@ color: #bbb;
 <!-- Preloader Ends -->
 
 <div style="display:none;" id="myDiv" class="animate-bottom">
-
-<!-- - </center>
-<div id="search">
-<form class="sform" id="sform" action="<?php echo($_SERVER["SCRIPT_NAME"]);?>" method="POST">
-<input class="search search-input" data-table="host-list" type="text" name="q" placeholder="Search" id="q">
-<input id="b" class="button1" type="submit" name="sform" value="🔎">
-</form></div>
-<center> - -->
-
 <div class="container">
-
 <div class="loginbox">
 <br>
 <div class="logintxt">
