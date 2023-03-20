@@ -31,7 +31,6 @@ Finally restart your server using, <br />
 ## Access
 You can Access the site in any of the following method via your browser <br />
 <br />
-```http://0.0.0.0/threatgrid/``` <br />
 ```http://127.0.0.1/threatgrid/``` <br />
 ```http://localhost/threatgrid/``` <br />
 ```http://[private_ip]/threatgrid/``` <br />
